@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="search_notes">Поиск заметок</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_subtitle">Подзаголовок</string>
+    <string name="type_not_here">Напишите свою заметку здесь...</string>
+    <string name="Note_notcanbe_empty">Имя заметки не должен быть пустой!</string>
+    <string name="miscellaneous">Другие настройки</string>
+    <string name="pick_color">Выбирите цвет</string>
+    <string name="add_image">Добавить фото</string>
+    <string name="developer">О разработчик</string>
+    <string name="o_razrabotchike">Эта программа была разработана Джамолиддином Шариповым. Записывайте каждую мысль, которая приходит вам в голову, в этой программе, чтобы не забыть. Удачи</string>
+    <string name="e_mail">e_mail: sh.jamoliddin2001@gmail.com</string>
+    <string name="delete_textView">Удаление записа</string>
+    <string name="delete_text">Вы точно хотите удалить этот запись?</string>
+    <string name="delete_note">Удалить запись</string>
+    <string name="text_cancel">Отмена</string>
+</resources>
